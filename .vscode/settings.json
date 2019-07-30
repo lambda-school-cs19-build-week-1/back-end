@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\chase\\.virtualenvs\\LambdaMUD-Project-rJOF6hRa\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\chase\\.virtualenvs\\LambdaMUD-Project-rJOF6hRa\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true
 }
